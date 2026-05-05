@@ -136,11 +136,3 @@ Conclusion
 This project helps in understanding how real-world systems process and analyze log data. It also strengthens concepts of file handling, data filtering, and basic automation using Python.
 
 ---
-
-Author Details
-
-Name: ____________________
-Roll No: __________________
-Date: ____________________
-
----
